@@ -1,0 +1,2 @@
+class ChegouNaBase(Exception):
+    pass
