@@ -24,4 +24,4 @@ class T(PecaBase):
             [0  , idT, 0]
         ],
     ]
-    super.__init__(idT, formas)
+    super.__init__(idT, formas, [3, 3])

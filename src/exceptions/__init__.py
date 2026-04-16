@@ -1,1 +1,1 @@
-from exceptions.chegouNaBase import ChegouNaBase
+from exceptions.allExcepts import *

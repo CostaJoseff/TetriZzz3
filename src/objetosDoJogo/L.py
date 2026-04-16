@@ -30,5 +30,5 @@ class L(PecaBase):
                 [0  , 0  , 0  , 0  ],
             ]
         ]
-        super.__init__(idL, formas)
+        super.__init__(idL, formas, [4, 4])
         

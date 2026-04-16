@@ -16,4 +16,4 @@ class Z(PecaBase):
                 [0, idZ, 0  ]
             ],
         ]
-        super.__init__(idZ, formas)
+        super.__init__(idZ, formas, [3, 3])

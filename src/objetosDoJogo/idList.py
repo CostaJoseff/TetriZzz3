@@ -1,10 +1,10 @@
-idL = .1
-idJ = .2
-idS = .3
-idZ = .4
-idT = .5
-idO = .6
-idI = .7
+idL = .01
+idJ = .02
+idS = .03
+idZ = .04
+idT = .05
+idO = .06
+idI = .07
 
-idPecaPosicionada = .8
+idPecaPosicionada = .08
 idVazio = 0

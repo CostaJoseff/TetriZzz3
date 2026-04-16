@@ -30,4 +30,4 @@ class J(PecaBase):
                 [0  , 0  , 0  , 0  ],
             ]
         ]
-        super.__init__(idJ, formas)
+        super.__init__(idJ, formas, [4, 4])

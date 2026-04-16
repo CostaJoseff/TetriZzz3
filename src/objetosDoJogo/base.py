@@ -2,9 +2,10 @@ import random as rd
 
 class PecaBase:
 
-    def __init__(self, id_, formas):
+    def __init__(self, id_, formas, shape):
         self.id: float = id_
         self.formas: list = formas
+        self.shape: list = shape
         self.rotacaoAtual: int = 0
 
     def rotacionar(self):

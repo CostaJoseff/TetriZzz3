@@ -18,4 +18,4 @@ class I(PecaBase):
                 [0  , 0  , 0  , 0  ]
             ],
         ]
-        super.__init__(idI, formas)
+        super.__init__(idI, formas, [4, 4])

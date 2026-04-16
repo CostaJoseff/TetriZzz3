@@ -8,4 +8,4 @@ class O(PecaBase):
             [idO, idO],
             [idO, idO]
         ]
-        super.__init__(idO, formas)
+        super.__init__(idO, formas, [2, 2])
