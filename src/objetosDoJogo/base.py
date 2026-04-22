@@ -8,8 +8,8 @@ class PecaBase:
         self.shape: list = shape
         self.rotacaoAtual: int = 0
 
-    def rotacionar(self):
-        self.rotacaoAtual = (self.rotacaoAtual + 1) % len(self.formas)
+    def rotacionar(self, horario=True):
+        self.rotacaoAtual = (self.rotacaoAtual + (1 if horario else -1)) % len(self.formas)
 
     def getForma(self):
         return self.formas[self.rotacaoAtual]

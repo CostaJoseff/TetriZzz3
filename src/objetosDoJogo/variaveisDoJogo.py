@@ -1,0 +1,3 @@
+larguraDoTabuleiro=10
+alturaDoTabuleiro=22
+limiteParaDerrota=4

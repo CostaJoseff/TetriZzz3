@@ -1,0 +1,2 @@
+larguraDaJanela=460
+alturaDaJanela=900
